@@ -1,4 +1,4 @@
 // Page Load Function
-function pageLoaded(){
-	
+function pageLoaded() {
+	$(".section1").hide();
 }
